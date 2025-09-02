@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/f-alon/bolsa_de_trabajo_codes/issues"
   },
-  "homepage": "https://github.com/f-alon/bolsa_de_trabajo_codes#readme"
+  "homepage": "https://github.com/f-alon/bolsa_de_trabajo_codes#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
 }
