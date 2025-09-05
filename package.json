@@ -1,0 +1,26 @@
+{
+  "name": "bolsa_de_trabajo_codes-1",
+  "version": "1.0.0",
+  "description": "Aplicación web para la gestión de ofertas de trabajo y postulaciones de estudiantes de la Universidad Nacional de Luján.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-alon/bolsa_de_trabajo_codes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f-alon/bolsa_de_trabajo_codes/issues"
+  },
+  "homepage": "https://github.com/f-alon/bolsa_de_trabajo_codes#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
